@@ -4,4 +4,4 @@ Hover effeccts are also there.\
 Links are also added in this.\
 Font awesome icons used.
 Sample image\
-![Sample Image](https://raw.githubusercontent.com/vibhor12shrotriya/digital-marketing-website/branch/path/to/img.png)
+![Sample Image](https://github.com/vibhor12shrotriya/digital-marketing-website/blob/main/sample.PNG)
